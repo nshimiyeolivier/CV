@@ -1,0 +1,85 @@
+.cv-page{
+        width: 780px;
+        margin: auto;
+        font-size: 16px;
+        font-family: 'source sanspro', calibri, Tahoma, sans-serif;
+        padding: 40px;
+        border: 5px solid #696969;
+        border-radius: 12px;
+        box-shadow: 2px 5px 3px black;
+        background-color: #262626;
+        color:  #e6e6e6;
+        }
+
+.header {
+        height: 250px;
+        }
+
+.identification {
+                float: left;
+                 }
+
+
+.passphoto {
+          float: right;
+          border: 5px solid #696969;
+          border-radius: 12px;
+          }
+
+.section {
+         margin-bottom: 70px;
+         text-align: justify;
+         }
+
+
+.left-section{
+             float:left;
+             font-weight:bold;
+             font-size: 20px;
+             }
+
+.right-section2{
+              font-size: 20px;
+              padding-top: 2px;
+              margin-left: 150px;
+              }
+
+
+.right-section1{
+              font-size: 20px;
+              padding-top: 2px;
+              margin-left: 160px;
+              }
+
+h1 {
+     font-weight: bold;
+     font-size: 35px;
+     text-align: center;
+     color: #556B2F;
+    }
+
+h2 {
+     border-top: 6px solid #696969;
+     font-weight: bold;
+     font-size: 25px;
+     margin-bottom: 10px;
+padding-top: 30px;
+color: #556B2F;
+     }
+
+.competence {
+            margin-bottom: 10px;
+             }
+
+.experience {
+            margin-bottom: 10px;
+           }
+.etude {
+        margin-bottom: 10px;
+        padding-bottom: 1px;
+       }
+
+.loisir {
+        margin-top: 10px;
+
+        }
