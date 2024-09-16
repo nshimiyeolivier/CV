@@ -98,6 +98,8 @@ function goToLink() {
   
 }   
 
+/*
+
 // un script pour selectionner un fichier de telechargement qui va avec la langue selectionné
 
         // Récupérer l'élément du sélecteur de langue et les liens de téléchargement
@@ -132,3 +134,5 @@ document.getElementById('language_select').addEventListener('change', function()
   window.history.pushState({path: newURL}, '', newURL);  // Met à jour l'URL sans recharger la page
   loadTranslation(selectedLanguage);
 });
+
+*/
