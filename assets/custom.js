@@ -46,7 +46,7 @@ function loadTranslation(language) {
           document.getElementById('francais').textContent = translations.francais;
           document.getElementById('anglais').textContent = translations.anglais;
           document.getElementById('neerlandais').textContent = translations.neerlandais;
-          document.getElementById('cv_en_format_pdf').textContent = translations.cv_en_format_pdf;
+          /* document.getElementById('cv_en_format_pdf').textContent = translations.cv_en_format_pdf; */
           document.getElementById('competences').textContent = translations.competences;
           document.getElementById('maintenance').textContent = translations.maintenance;
           document.getElementById('gestion_logiciels').textContent = translations.gestion_logiciels;
