@@ -92,7 +92,7 @@ function goToLink() {
   
 }   
 
-/*
+
 
 // un script pour selectionner un fichier de telechargement qui va avec la langue selectionné
 
@@ -129,4 +129,3 @@ document.getElementById('language_select').addEventListener('change', function()
   loadTranslation(selectedLanguage);
 });
 
-*/
