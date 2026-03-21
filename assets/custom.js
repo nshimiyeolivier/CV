@@ -4,6 +4,9 @@ $(document).ready(function(){
         		$('.maintenance').animate({width:'85%'},600);
             $('.gestion').animate({width:'85%'},800);
             $('.reseau').animate({width:'60%'},1000);
+            $('.intune').animate({width:'75%'},1000);
+            $('.ars').animate({width:'85%'},1000);
+            $('.service_now').animate({width:'95%'},1000);
         		$('.css').animate({width:'99%'},1100);
         		$('.html').animate({width:'99%'},1200);
         		$('.css').animate({width:'99%'},1300);
@@ -55,6 +58,9 @@ function loadTranslation(language) {
           document.getElementById('gestion_logiciel').textContent = translations.gestion_logiciel;
           document.getElementById('reseaux').textContent = translations.reseaux;
           document.getElementById('experiences').textContent = translations.experiences;
+
+          document.getElementById('support_informatique').textContent = translations.support_informatique;
+
           document.getElementById('agent_helpdesk').textContent = translations.agent_helpdesk;
           document.getElementById('technicien_it').textContent = translations.technicien_it;
           document.getElementById('developpeur_web').textContent = translations.developpeur_web;
